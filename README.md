@@ -1,4 +1,4 @@
-# Resistor Color Code Calculator Web App
+# Resistometer
 
 ## Overview
 This is a web app that identifies the color bands on a resistor from a photo and calculates the resistance value. The app uses JavaScript for image processing and color recognition, allowing users to upload a photo of a resistor, detect the color bands, and get the corresponding resistance value without requiring any backend services.
